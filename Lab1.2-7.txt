@@ -1,0 +1,6 @@
+ mininet> iperf
+*** Iperf: testing TCP bandwidth between h1 and h2 
+*** Results: ['93.1 Mbits/sec', '109 Mbits/sec']                                                                                                                        
+ mininet> iperfudp                                                                                                                                                       
+*** Iperf: testing UDP bandwidth between h1 and h2                                                                                                                      
+*** Results: ['10M', '10.0 Mbits/sec', '10.0 Mbits/sec'] *** Results: ['10M', '10.0 Mbits/sec', '10.0 Mbits/sec']                                                       
